@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Domain", "1.Domain", "{9B02DEA8-B3B4-4BCC-99F8-B22F2AA5F821}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Infraestructure", "2.Infraestructure", "{27EB156B-52AE-42FD-A5AD-DC4343949BFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Application", "3.Application", "{EC31C301-4D85-4200-84EB-304031D160B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.WebApi", "4.WebApi", "{AF74FF65-C028-4356-9916-69D2842C7C3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.Domain.Entities", "1.Domain\QuizPlayer.Domain.Entities\QuizPlayer.Domain.Entities.csproj", "{484CDEA1-05FD-41C0-ABFA-9E14527EFFE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.Domain.Interfaces", "1.Domain\QuizPlayer.Domain.Interfaces\QuizPlayer.Domain.Interfaces.csproj", "{42A55AD9-8EF9-41EC-BBBD-8189EA97D394}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.Domain.Services", "1.Domain\QuizPlayer.Domain.Services\QuizPlayer.Domain.Services.csproj", "{0CABE6F4-CDE8-4BAF-864A-F7C62A48C388}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.Infra.Data", "2.Infraestructure\QuizPlayer.Infra.Data\QuizPlayer.Infra.Data.csproj", "{249C1D8E-FF9B-4B52-B50F-EDF3AF86B5B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.Infra.IoC", "2.Infraestructure\QuizPlayer.Infra.IoC\QuizPlayer.Infra.IoC.csproj", "{182A87E6-6695-4CD9-B468-B3E3FC9F143E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.Infra.Utilities", "2.Infraestructure\QuizPlayer.Infra.Utilities\QuizPlayer.Infra.Utilities.csproj", "{03B75845-AA08-4B07-8498-B5D5701BE28B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.Application.Interfaces", "3.Application\QuizPlayer.Application.Interfaces\QuizPlayer.Application.Interfaces.csproj", "{4CB16F63-6218-43FF-AA4A-EB087627A3B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.Application.Services", "3.Application\QuizPlayer.Application.Services\QuizPlayer.Application.Services.csproj", "{054FD3E0-BD8A-495A-863D-9B5EEB570EE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizPlayer.WebApi", "4.WebApi\QuizPlayer.WebApi\QuizPlayer.WebApi.csproj", "{AED0722A-E22E-49A5-AAF5-C9EA2125A90A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484CDEA1-05FD-41C0-ABFA-9E14527EFFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484CDEA1-05FD-41C0-ABFA-9E14527EFFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484CDEA1-05FD-41C0-ABFA-9E14527EFFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484CDEA1-05FD-41C0-ABFA-9E14527EFFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A55AD9-8EF9-41EC-BBBD-8189EA97D394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A55AD9-8EF9-41EC-BBBD-8189EA97D394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A55AD9-8EF9-41EC-BBBD-8189EA97D394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A55AD9-8EF9-41EC-BBBD-8189EA97D394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CABE6F4-CDE8-4BAF-864A-F7C62A48C388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CABE6F4-CDE8-4BAF-864A-F7C62A48C388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CABE6F4-CDE8-4BAF-864A-F7C62A48C388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CABE6F4-CDE8-4BAF-864A-F7C62A48C388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249C1D8E-FF9B-4B52-B50F-EDF3AF86B5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249C1D8E-FF9B-4B52-B50F-EDF3AF86B5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249C1D8E-FF9B-4B52-B50F-EDF3AF86B5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249C1D8E-FF9B-4B52-B50F-EDF3AF86B5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182A87E6-6695-4CD9-B468-B3E3FC9F143E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182A87E6-6695-4CD9-B468-B3E3FC9F143E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182A87E6-6695-4CD9-B468-B3E3FC9F143E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182A87E6-6695-4CD9-B468-B3E3FC9F143E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B75845-AA08-4B07-8498-B5D5701BE28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B75845-AA08-4B07-8498-B5D5701BE28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B75845-AA08-4B07-8498-B5D5701BE28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B75845-AA08-4B07-8498-B5D5701BE28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB16F63-6218-43FF-AA4A-EB087627A3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB16F63-6218-43FF-AA4A-EB087627A3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB16F63-6218-43FF-AA4A-EB087627A3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB16F63-6218-43FF-AA4A-EB087627A3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054FD3E0-BD8A-495A-863D-9B5EEB570EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054FD3E0-BD8A-495A-863D-9B5EEB570EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054FD3E0-BD8A-495A-863D-9B5EEB570EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054FD3E0-BD8A-495A-863D-9B5EEB570EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED0722A-E22E-49A5-AAF5-C9EA2125A90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED0722A-E22E-49A5-AAF5-C9EA2125A90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED0722A-E22E-49A5-AAF5-C9EA2125A90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED0722A-E22E-49A5-AAF5-C9EA2125A90A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{484CDEA1-05FD-41C0-ABFA-9E14527EFFE7} = {9B02DEA8-B3B4-4BCC-99F8-B22F2AA5F821}
+		{42A55AD9-8EF9-41EC-BBBD-8189EA97D394} = {9B02DEA8-B3B4-4BCC-99F8-B22F2AA5F821}
+		{0CABE6F4-CDE8-4BAF-864A-F7C62A48C388} = {9B02DEA8-B3B4-4BCC-99F8-B22F2AA5F821}
+		{249C1D8E-FF9B-4B52-B50F-EDF3AF86B5B0} = {27EB156B-52AE-42FD-A5AD-DC4343949BFC}
+		{182A87E6-6695-4CD9-B468-B3E3FC9F143E} = {27EB156B-52AE-42FD-A5AD-DC4343949BFC}
+		{03B75845-AA08-4B07-8498-B5D5701BE28B} = {27EB156B-52AE-42FD-A5AD-DC4343949BFC}
+		{4CB16F63-6218-43FF-AA4A-EB087627A3B6} = {EC31C301-4D85-4200-84EB-304031D160B7}
+		{054FD3E0-BD8A-495A-863D-9B5EEB570EE3} = {EC31C301-4D85-4200-84EB-304031D160B7}
+		{AED0722A-E22E-49A5-AAF5-C9EA2125A90A} = {AF74FF65-C028-4356-9916-69D2842C7C3A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970B587A-5BF6-4778-8880-5EF4D8CE7016}
+	EndGlobalSection
+EndGlobal
