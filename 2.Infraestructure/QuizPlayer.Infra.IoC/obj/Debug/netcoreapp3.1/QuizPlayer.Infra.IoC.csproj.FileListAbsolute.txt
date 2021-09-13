@@ -1,0 +1,44 @@
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.AssemblyInfo.cs
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.deps.json
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Services.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.Data.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Services.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.Data.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.csproj.CopyComplete
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\2.Infraestructure\TrackingCars.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.deps.json
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Services.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.Data.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Services.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Infra.Data.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.AssemblyInfo.cs
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.csproj.CopyComplete
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\2.Infraestructure\QuizPlayer.Infra.IoC\obj\Debug\netcoreapp3.1\QuizPlayer.Infra.IoC.pdb

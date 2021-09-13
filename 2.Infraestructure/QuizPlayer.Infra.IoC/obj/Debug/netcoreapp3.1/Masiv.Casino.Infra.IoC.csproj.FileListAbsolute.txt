@@ -1,0 +1,4 @@
+E:\XpertGroup\Repository\masiv-casino-api\2.Infraestructure\Masiv.Casino.Infra.IoC\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.IoC.csproj.AssemblyReference.cache
+E:\XpertGroup\Repository\masiv-casino-api\2.Infraestructure\Masiv.Casino.Infra.IoC\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.IoC.AssemblyInfoInputs.cache
+E:\XpertGroup\Repository\masiv-casino-api\2.Infraestructure\Masiv.Casino.Infra.IoC\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.IoC.AssemblyInfo.cs
+E:\XpertGroup\Repository\masiv-casino-api\2.Infraestructure\Masiv.Casino.Infra.IoC\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.IoC.csproj.CoreCompileInputs.cache

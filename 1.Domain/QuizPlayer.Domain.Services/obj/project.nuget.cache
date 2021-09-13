@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6VmNZ4dYP9cUYEqVSuFnZ+ocQW1WUhhcgFBgNKIqjbyQIKnskzP8qSoYv7Lkx0oRwtmnIgpeaomA5HrYgZ++hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristianrojas\\OneDrive - SETI S.A.S\\Documentos\\QuizPlayer\\1.Domain\\QuizPlayer.Domain.Services\\QuizPlayer.Domain.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

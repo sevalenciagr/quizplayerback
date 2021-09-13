@@ -1,0 +1,24 @@
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.deps.json
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.csprojAssemblyReference.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.AssemblyInfoInputs.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.AssemblyInfo.cs
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.csproj.CopyComplete
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.deps.json
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.csprojAssemblyReference.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.AssemblyInfoInputs.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.AssemblyInfo.cs
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.csproj.CopyComplete
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.pdb

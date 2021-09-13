@@ -1,0 +1,28 @@
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.deps.json
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.csprojAssemblyReference.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.AssemblyInfo.cs
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.csproj.CopyComplete
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\1.Domain\TrackingCars.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.deps.json
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Interfaces.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.csprojAssemblyReference.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.AssemblyInfo.cs
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.csproj.CopyComplete
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\1.Domain\QuizPlayer.Domain.Services\obj\Debug\netcoreapp3.1\QuizPlayer.Domain.Services.pdb

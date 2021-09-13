@@ -1,0 +1,519 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.IoC\\Masiv.Casino.Infra.IoC.csproj": {}
+  },
+  "projects": {
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj",
+        "projectName": "TrackingCars.Domain.Entities",
+        "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\Camilo Rojas\\.nuget\\packages\\",
+        "outputPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Camilo Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://xpertgroupdevapp.eastus.cloudapp.azure.com:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj",
+        "projectName": "TrackingCars.Domain.Interfaces",
+        "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Camilo Rojas\\.nuget\\packages\\",
+        "outputPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Camilo Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://xpertgroupdevapp.eastus.cloudapp.azure.com:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Services\\TrackingCars.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Services\\TrackingCars.Domain.Services.csproj",
+        "projectName": "TrackingCars.Domain.Services",
+        "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Services\\TrackingCars.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\Camilo Rojas\\.nuget\\packages\\",
+        "outputPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Camilo Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://xpertgroupdevapp.eastus.cloudapp.azure.com:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.Data\\TrackingCars.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.Data\\TrackingCars.Infra.Data.csproj",
+        "projectName": "TrackingCars.Infra.Data",
+        "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.Data\\TrackingCars.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Camilo Rojas\\.nuget\\packages\\",
+        "outputPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Camilo Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://xpertgroupdevapp.eastus.cloudapp.azure.com:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "StackExchange.Redis.Extensions.Core": {
+              "target": "Package",
+              "version": "[6.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.IoC\\Masiv.Casino.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.IoC\\Masiv.Casino.Infra.IoC.csproj",
+        "projectName": "Masiv.Casino.Infra.IoC",
+        "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.IoC\\Masiv.Casino.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\Camilo Rojas\\.nuget\\packages\\",
+        "outputPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Camilo Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://xpertgroupdevapp.eastus.cloudapp.azure.com:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Interfaces\\TrackingCars.Domain.Interfaces.csproj"
+              },
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Services\\TrackingCars.Domain.Services.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Services\\TrackingCars.Domain.Services.csproj"
+              },
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.Data\\TrackingCars.Infra.Data.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\2.Infraestructure\\Masiv.Casino.Infra.Data\\TrackingCars.Infra.Data.csproj"
+              },
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Interfaces\\Masiv.Casino.Application.Interfaces.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Interfaces\\Masiv.Casino.Application.Interfaces.csproj"
+              },
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Services\\Masiv.Casino.Application.Services.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Services\\Masiv.Casino.Application.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Contracts\\Masiv.Casino.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Contracts\\Masiv.Casino.Application.Contracts.csproj",
+        "projectName": "Masiv.Casino.Application.Contracts",
+        "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Contracts\\Masiv.Casino.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Camilo Rojas\\.nuget\\packages\\",
+        "outputPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Camilo Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://xpertgroupdevapp.eastus.cloudapp.azure.com:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Interfaces\\Masiv.Casino.Application.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Interfaces\\Masiv.Casino.Application.Interfaces.csproj",
+        "projectName": "Masiv.Casino.Application.Interfaces",
+        "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Interfaces\\Masiv.Casino.Application.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Camilo Rojas\\.nuget\\packages\\",
+        "outputPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Camilo Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://xpertgroupdevapp.eastus.cloudapp.azure.com:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Entities\\TrackingCars.Domain.Entities.csproj"
+              },
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Contracts\\Masiv.Casino.Application.Contracts.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Contracts\\Masiv.Casino.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Services\\Masiv.Casino.Application.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Services\\Masiv.Casino.Application.Services.csproj",
+        "projectName": "Masiv.Casino.Application.Services",
+        "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Services\\Masiv.Casino.Application.Services.csproj",
+        "packagesPath": "C:\\Users\\Camilo Rojas\\.nuget\\packages\\",
+        "outputPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Camilo Rojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://xpertgroupdevapp.eastus.cloudapp.azure.com:9090/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Services\\TrackingCars.Domain.Services.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\1.Domain\\Masiv.Casino.Domain.Services\\TrackingCars.Domain.Services.csproj"
+              },
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Contracts\\Masiv.Casino.Application.Contracts.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Contracts\\Masiv.Casino.Application.Contracts.csproj"
+              },
+              "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Interfaces\\Masiv.Casino.Application.Interfaces.csproj": {
+                "projectPath": "E:\\XpertGroup\\Repository\\masiv-casino-api - copia\\3.Application\\Masiv.Casino.Application.Interfaces\\Masiv.Casino.Application.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+E:\XpertGroup\Repository\TrackingCars\2.Infraestructure\TrackingCars.Infra.Utilities\bin\Debug\netcoreapp3.1\Masiv.Casino.Infra.Utilities.deps.json
+E:\XpertGroup\Repository\TrackingCars\2.Infraestructure\TrackingCars.Infra.Utilities\bin\Debug\netcoreapp3.1\Masiv.Casino.Infra.Utilities.dll
+E:\XpertGroup\Repository\TrackingCars\2.Infraestructure\TrackingCars.Infra.Utilities\bin\Debug\netcoreapp3.1\Masiv.Casino.Infra.Utilities.pdb
+E:\XpertGroup\Repository\TrackingCars\2.Infraestructure\TrackingCars.Infra.Utilities\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.Utilities.AssemblyInfoInputs.cache
+E:\XpertGroup\Repository\TrackingCars\2.Infraestructure\TrackingCars.Infra.Utilities\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.Utilities.AssemblyInfo.cs
+E:\XpertGroup\Repository\TrackingCars\2.Infraestructure\TrackingCars.Infra.Utilities\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.Utilities.csproj.CoreCompileInputs.cache
+E:\XpertGroup\Repository\TrackingCars\2.Infraestructure\TrackingCars.Infra.Utilities\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.Utilities.dll
+E:\XpertGroup\Repository\TrackingCars\2.Infraestructure\TrackingCars.Infra.Utilities\obj\Debug\netcoreapp3.1\Masiv.Casino.Infra.Utilities.pdb

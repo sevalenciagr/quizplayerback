@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dexyawxt6UXg1NRfse3KDPzdx4UdaBeUkjPketNT0Yx8c8xnyp8pOmqGj3aYIYzV2a/srAv+JPG8OVFSoQq21w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristianrojas\\OneDrive - SETI S.A.S\\Documentos\\QuizPlayer\\1.Domain\\QuizPlayer.Domain.Entities\\QuizPlayer.Domain.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\cristianrojas\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

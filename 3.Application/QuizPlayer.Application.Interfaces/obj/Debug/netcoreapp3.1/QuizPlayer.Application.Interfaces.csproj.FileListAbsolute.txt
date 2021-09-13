@@ -1,0 +1,24 @@
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.deps.json
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.pdb
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.csprojAssemblyReference.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.AssemblyInfoInputs.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.AssemblyInfo.cs
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.csproj.CopyComplete
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.dll
+C:\Users\cristianrojas\Downloads\TrackingCars\3.Application\TrackingCars.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.deps.json
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\bin\Debug\netcoreapp3.1\QuizPlayer.Domain.Entities.pdb
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.csprojAssemblyReference.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.AssemblyInfoInputs.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.AssemblyInfo.cs
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.csproj.CopyComplete
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.dll
+C:\Users\cristianrojas\OneDrive - SETI S.A.S\Documentos\QuizPlayer\3.Application\QuizPlayer.Application.Interfaces\obj\Debug\netcoreapp3.1\QuizPlayer.Application.Interfaces.pdb
